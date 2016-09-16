@@ -8,7 +8,8 @@
 - Íslandsbanki
 - Arion banki
 - Landsbankinn
-- ...
+- Háskólinn í Reykjavík
+- Háskóla Bíó
 
 ### Proposal
 
