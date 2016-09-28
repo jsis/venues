@@ -4,10 +4,10 @@ A attempt to collect all our venue info in one place to ease the pain of booking
 
 ## Prices
 
-| Venue       | Cost for the venue | Cost for a keg of beer |
-|-------------|--------------------|------------------------|
-| Kex hostel  | 40.000 ISK         | 48.000 ISK              |
-| Bio Paradís | 75.000 ISK + vsk.  | Unknown                |
+| Venue       | Cost for the venue | Cost for a keg of beer | Time checked   |
+|-------------|--------------------|------------------------|----------------|
+| Kex hostel  | 40.000 ISK         | 48.000 ISK             | September 2016 |
+| Bio Paradís | 75.000 ISK + vsk.  | Unknown                | September 2016 |
 
 ## Places that we should check out in the future
 
